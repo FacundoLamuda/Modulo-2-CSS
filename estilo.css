@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Beau+Rivage&display=swap');
+
+.lorem{
+	font-family: 'Beau Rivage', cursive;
+	font-size: 20px;
+	column-count: 5;
+	column-gap: 10px;
+	color:black;
+}
+
+h1:hover{
+	color: green;
+}
+
+ul:hover{
+	color: blue;
+}
+
+ol:hover{
+	color: fuchsia;
+}
+
+.img{
+	border-radius: 30px;
+	box-shadow: 0 0 25px white;
+}
+
+html{
+	background: linear-gradient(to bottom, gold, lightgrey);
+}
+
+.mundo{
+	font-size: 100px;
+	background: -webkit-linear-gradient(bottom, red, white);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
